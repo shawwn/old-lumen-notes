@@ -109,7 +109,7 @@ eqv to `$ bin/lumen -c main.l -o obj/main.lua`
 but `$ bin/lumen -c main.l -o -` doesn't print to stdout; creates
 output file named ./- 
 
-### example: Let's Play Lumen
+### Let's Play Lumen
 
 I decided to write this section aking to something of a "Let's Play"
 style. It's intended for intermediate-level lisp programmers who feel
