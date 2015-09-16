@@ -30,7 +30,7 @@ $ find . -type f | grep -v ^./.git
 ./test.l
 ```
 
-easier to understand by splitting output into categories:
+easier to understand by splitting into categories:
 
 ```
 bin/lumen
