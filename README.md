@@ -511,7 +511,7 @@ evaluation must happen here:
 
 but what does rep mean?
 
-ah, representation:
+ah, readprint.
 
 ```
 $ ag '\brep\b' -C1 | cat
