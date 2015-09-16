@@ -45,7 +45,6 @@ bin/reader.lua
 
 obj/.gitignore
 
-
 compiler.l
 macros.l
 main.l
